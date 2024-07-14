@@ -1,0 +1,18 @@
+{
+  "projects": {
+    "your-project-name": {
+      "architect": {
+        "build": {
+          "options": {
+            "assets": [
+              "src/assets",
+              "src/favicon.ico"
+            ],
+            "styles": [],
+            "scripts": []
+          }
+        }
+      }
+    }
+  }
+}
